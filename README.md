@@ -1,5 +1,5 @@
 # my dwmblocks - status bar for dwm
-## orignal auther - Luke Smith
+## Orignal auther - Luke Smith
 
 Modular status bar for dwm written in c.
 
